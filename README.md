@@ -4,7 +4,7 @@ An interactive model for estimating the fiscal cost and distributional effects o
 
 Built and maintained by Te Ara Ahunga Ora Retirement Commission.
 
-[**Live app:**](https://01a08333-52b3-a897-c218-b493590103f9.share.connect.posit.cloud/)
+(https://retirebent-taaorc-gvc-model.share.connect.posit.cloud/)
 
 **Model version:** v14. The version history in the methodology note is the authoritative record of what changed and when.
 
@@ -147,7 +147,7 @@ Policy analysis drawing on this model is published on the Te Ara Ahunga Ora webs
 
 ## Citation
 
-Te Ara Ahunga Ora Retirement Commission (2026). _KiwiSaver Government Contribution microsimulation model_, version 14. (https://01a08333-52b3-a897-c218-b493590103f9.share.connect.posit.cloud/)
+Te Ara Ahunga Ora Retirement Commission (2026). _KiwiSaver Government Contribution microsimulation model_, version 14. (https://retirebent-taaorc-gvc-model.share.connect.posit.cloud/)
 
 ## Licence
 
